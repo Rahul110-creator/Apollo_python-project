@@ -1,6 +1,5 @@
 # Apollo_python-project Key Finding
 ## 7. Key Insights & Recommendations
-> Replace the placeholders below with the numbers printed in your own run (the notebook prints every figure you need).
 
 **Business overview**
 * Volume trend: _e.g. appointments grew X% from 2022 to 2024; peak quarter was …_
